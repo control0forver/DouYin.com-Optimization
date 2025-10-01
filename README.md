@@ -1,4 +1,4 @@
-# DouYin.com-Optimization
+# DouYin.com-Optimization (WIP)
 A Tampermonkey userscript to optimize the user experience on douyin.com.
 
 ## Installatio
